@@ -1,4 +1,4 @@
-#TwitchStats - Android
+# TwitchStats - Android
 
 ## TODO
 - Everything
